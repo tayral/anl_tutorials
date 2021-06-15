@@ -1,19 +1,11 @@
-# Tutorials for QX01
+# myQLM Hands-on
 
 ## Requirements
 
-You need to have myqlm installed on your computer:
+Either use mybinder (recommended way for the tutorial), or install myqlm on your computer by running:
 
 	pip install myqlm
 	pip install myqlm-simulators
-
-## Howto
-
-Launch a jupyter kernel:
-
-	jupyter notebook
-
-Then, go through the notebooks. They are sorted by ascending order of difficulty.
 
 ## Documentation
 
